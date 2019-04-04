@@ -32,7 +32,9 @@ Click the green clone or download button and download the .zip file. Extract the
 
 1. Dev Libraries List -- it will help you understand how to use basic React Native components, make your components resuable and integrate redux.
 
-2. Coming Soon...
+2. Employees manager -- it will help you understand how to integrate firebase auth and data storage functionalities, make your components more resuable and even more redux, also you will be able to see how to use routing inside your application and a few other small libraries.
+
+3. Coming Soon...
 
 #### Helpful suggestion
 
